@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Chanwoo Lee. I am a product-focused Embedded Software Engineer with 2+ years of experience in SSD firmware development and performance optimization.
 - 💻 Proficient in C++, C, and ARM Assembly, with hands-on experience in multi-threaded and multi-core programming.
 - 🛠️ Demonstrated ability to enhance system reliability and optimize system performance.
-- 📫 bwlee6736@gmail.com / [linkedin.com/in/chanwoolee-calgary](https://www.linkedin.com/in/chanwoolee-calgary/)
+- 📫 bwlee6736@gmail.com / [linkedin.com/in/chanwoo-lee](https://www.linkedin.com/in/chanwoo-lee)
